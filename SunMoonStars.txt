@@ -1,7 +1,7 @@
 
 Sun, Moon and Stars
 		by Gillian Tuite & Fergal Mohan
-(V1)Am/E	E7 (d#,e), F(FMaj7) E/G#
+(V1)Am/E	E7 (d#,e), F(FMaj7) E/G#(d#edb)
 The sun is setting,	over empty seas
 Am/E		E7	F (FMaj7) E/G# (g# g f e)
 Star spangled banner, flapping in the breeze,
@@ -36,8 +36,9 @@ seems it's never been embraced.
 that you can't eat your, flags 'n' hope to survive
 F		G,	C/G 	Em/G	Am 	Am/G
 We all need much more, to keep our hopes alive.
+(Solo) Am/E	E7 (d#,e)	F	G, Am	G	F	Em7 /D
 (Out)A Future freed, from Deed or Dice tossed ((from time's past))
 A Human need, No-one dies, an out caste ((hope can outlast))
  The call to prayer, we all can share
 Our empathy, pray to be freed,
-From History, agreed to Recast.
+From History, agree(d) to Recast.
