@@ -7,9 +7,9 @@ Am/E		E7	F	(FMaj7)
 Star spangled banner, flapping in the breeze,
 Dm	Dm7	G/D
 The sting of salty tears
-Am/E	G/D	F/C
+Am/E		G/D	F/C
 Spiralled flashbacks through the years
-Dm	G/D	Am/E
+Dm	G/D	Am/E(g)C/E Am/E
 seems 't almost guarantees.
 (C1) C	G/B,	Am 	Am/G
 The sun will rise again and will cast
@@ -19,7 +19,7 @@ F	Em7	Dm	G/D
 A call to prayer, we all can share 
 Am/E	E7 (d#,e)	F	G
 Our empathy, to pray be freed,
-F	G
+FMaj7		GMaj7,		Am
 From Human Greed, a seed o' time's past
 (V2)  The moon is rising. Over urban skies
 United Nations, flagging but it flies
