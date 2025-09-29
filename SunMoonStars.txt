@@ -1,16 +1,16 @@
 
-Sun, Moon and Stars
+Sun, Moon and Stars (Capo +3)
 		by Gillian Tuite & Fergal Mohan
-(V1)Am/E	E7 (d#,e), F(FMaj7) E/G#(d#edb)
+(V1)Am/E	E7 (d#,e), F(FMaj7) Eaug/G#(d#edb) Eaug
 The sun is setting,	over empty seas
-Am/E		E7	F (FMaj7) E/G# (g# g f e)
+Am/E		E7	F (FMaj7) Eaug/G# (g# g f g)
 Star spangled banner, flapping in the breeze,
 Dm	Dm7	G/D
 The sting of salty tears
 Am/E		G/D	F/C		/B
 Spiralled flashbacks through the years
 Dm/A	G	Am(g) /G Am
-seems 't almost guarantees.
+almost seems it guarantees.
 (C1) C	G/B,	Am 	Am/G
 The sun will rise again and will cast
 C/G	Em/G,	Am 	Am/G
@@ -25,13 +25,13 @@ From Human Greed, bad seed o' time's past
 United Nations, flagging but it flies
 A sign of hopes and fears
 Fading old dreams, disappears
-Seems to hardly recognise. 
+hardly seems to recognise. 
 (C1).. From Human Greed, no need fo' time's past
 (V3) The stars are shining, over concrete waste
 In Crescent moon light, a red cross interlaced
 Entwined 'round Minurets
 (Resurrections/ReCollections/Reflections o')Regrets
-seems it's never been embraced.
+never seems to be embraced.
 (Br) Dm7	Em7,	Am/E		E7 (ee d# e)
 that you can't eat your, flags 'n' hope to survive
 F		G,	C/G 	Em/G	Am 	Am/G
@@ -42,3 +42,4 @@ A Human need, No-one dies, an out caste ((hope can outlast))
  The call to prayer, we all can share
 Our empathy, pray to be freed,
 From History, agree(d) to Recast.
+Eaug/G# = (g# c e) Eaug (e g# c e)
