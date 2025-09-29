@@ -3,28 +3,28 @@ Sun, Moon and Stars
 		by Gillian Tuite & Fergal Mohan
 (V1)Am/E	E7 (d#,e), F(FMaj7) E/G#
 The sun is setting,	over empty seas
-Am/E		E7	F	(FMaj7)
+Am/E		E7	F (FMaj7) E/G# (g# g f e)
 Star spangled banner, flapping in the breeze,
 Dm	Dm7	G/D
 The sting of salty tears
-Am/E		G/D	F/C
+Am/E		G/D	F/C		/B
 Spiralled flashbacks through the years
-Dm	G/D	Am/E(g)C/E Am/E
+Dm/A	G	Am(g) /G Am
 seems 't almost guarantees.
 (C1) C	G/B,	Am 	Am/G
 The sun will rise again and will cast
-C	G/B,	Am 	Am/G
+C/G	Em/G,	Am 	Am/G
 A light on flags again at half mast
-F	Em7	Dm	G/D
+F	Em7	Dm	Dm7	G/D
 A call to prayer, we all can share 
 Am/E	E7 (d#,e)	F	G
-Our empathy, to pray be freed,
-FMaj7		GMaj7,		Am
-From Human Greed, a seed o' time's past
+Our empathy, pray to be freed,
+FMaj7		GMaj7,		Am /G Am
+From Human Greed, bad seed o' time's past
 (V2)  The moon is rising. Over urban skies
 United Nations, flagging but it flies
 A sign of hopes and fears
-Fading old dreams, (soon) disappears
+Fading old dreams, disappears
 Seems to hardly recognise. 
 (C1).. From Human Greed, no need fo' time's past
 (V3) The stars are shining, over concrete waste
@@ -32,6 +32,12 @@ In Crescent moon light, a red cross interlaced
 Entwined 'round Minurets
 (Resurrections/ReCollections/Reflections o')Regrets
 seems it's never been embraced.
-(Br) You cannot eat your, flags to survive
-We need much more, to keep us alive
-(C1)...(No-one dies) A Human need, (a Dice a Deed), agreed to Recast.
+(Br) Dm7	Em7,	Am/E		E7 (ee d# e)
+that you can't eat your, flags 'n' hope to survive
+F		G,	C/G 	Em/G	Am 	Am/G
+We all need much more, to keep our hopes alive.
+(Out)A Future freed, from Deed or Dice tossed ((from time's past))
+A Human need, No-one dies, an out caste ((hope can outlast))
+ The call to prayer, we all can share
+Our empathy, pray to be freed,
+From History, agreed to Recast.
