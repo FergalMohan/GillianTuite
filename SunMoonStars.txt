@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 
 Sun, Moon and Stars (Capo +3)
+=======
+Sun, Moon and Stars
+>>>>>>> Stashed changes
 		by Gillian Tuite & Fergal Mohan
 (V1)Am/E	E7 (d#,e), F(FMaj7) Eaug/G#(d#edb) Eaug
 The sun is setting,	over empty seas
