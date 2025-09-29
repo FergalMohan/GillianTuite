@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
-
 Sun, Moon and Stars (Capo +3)
-=======
-Sun, Moon and Stars
->>>>>>> Stashed changes
 		by Gillian Tuite & Fergal Mohan
 (V1)Am/E	E7 (d#,e), F(FMaj7) Eaug/G#(d#edb) Eaug
 The sun is setting,	over empty seas
@@ -13,16 +8,16 @@ Dm	Dm7	G/D
 The sting of salty tears
 Am/E		G/D	F/C		/B
 Spiralled flashbacks through the years
-Dm/A	G	Am(g) /G Am
+Dm/A	G   (e)	Am(g) /G Am
 almost seems it guarantees.
 (C1) C	G/B,	Am 	Am/G
 The sun will rise again and will cast
-C/G	Em/G,	Am 	Am/G
+C/G	Em/G,	Am 	Am/G	(g e)
 A light on flags again at half mast
-F	Em7	Dm	Dm7	G/D
+F	Em7(dde)	Dm	Dm7	G/D
 A call to prayer, we all can share 
-Am/E	E7 (d#,e)	F	G
-Our empathy, pray to be freed,
+Am/E E7 (d# e),F(c c a)	G (g e)
+Our empathy, prayer to be freed,
 FMaj7		GMaj7,		Am /G Am
 From Human Greed, bad seed o' time's past
 (V2)  The moon is rising. Over urban skies
@@ -30,20 +25,20 @@ United Nations, flagging but it flies
 A sign of hopes and fears
 Fading old dreams, disappears
 hardly seems to recognise. 
-(C1).. From Human Greed, no need fo' time's past
+(C1).. From Human Greed, that need 's long passed
 (V3) The stars are shining, over concrete waste
 In Crescent moon light, a red cross interlaced
 Entwined 'round Minurets
-(Resurrections/ReCollections/Reflections o')Regrets
+Resurrections o' Regrets
 never seems to be embraced.
 (Br) Dm7	Em7,	Am/E		E7 (ee d# e)
 that you can't eat your, flags 'n' hope to survive
 F		G,	C/G 	Em/G	Am 	Am/G
 We all need much more, to keep our hopes alive.
-(Solo) Am/E	E7 (d#,e)	F	G, Am	G	F	Em7 /D
+(Solo) Am/E	E7 (d# e)	F	G, Am	G	F	Em7 /D
 (Out)A Future freed, from Deed or Dice tossed ((from time's past))
-A Human need, No-one dies, an out caste ((hope can outlast))
+A Human need, No-one dies, no one 's lost ((hope can outlast))
  The call to prayer, we all can share
-Our empathy, pray to be freed,
-From History, agree(d) to Recast.
+Our empathy, prayer to be freed,
+From History, albeit star-crossed ((agree(d) to Recast))
 Eaug/G# = (g# c e) Eaug (e g# c e)
