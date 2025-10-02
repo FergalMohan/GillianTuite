@@ -1,44 +1,46 @@
 Prayer Flags (Capo +5) (Key F)
 		by Gillian Tuite & Fergal Mohan
 (V1)Am/E E7 (d#,e), F(FMaj7) Eaug/G#(d#edb) Eaug
-The sun's gold amber,	sets on empty seas
+The sun's gone amber,	sets on empty seas
 Am/E		E7	F (FMaj7) Eaug/G# (g# g f g)
-Star Spangled Banner pir, -ouetting in the breeze,
+Star Spangled Banner sill, -houetted in the breeze,
 Dm	Dm7	G6 G/D (ed)
 The sting of salty tears
 Am/E		G/D	F/C		/B
 Spiralled flashbacks through the years
-Dm/A	Em/B   (e)	Am(g) /G Am
+Dm/A	Em/B   (e)	Am(aga) /G Am
 Prayer Flags seem like guarantees.
-(C1) C		G/B,		Am Esus4(a+b+e)
+(C1) C		G/B,		Am Em/G(ecbg)
 The sun will rise again, and will cast
-C/G		Em/G,	Am 	Am/G	(g e)
+C/G		Em/G,	Am 	C/G	(g e)
 A light on flags maintained, at half mast
 F	Em7(dde)	Dm	Dm7	G/D
 A call to prayer, we all can share 
 Am/E(ed)E7(bg#),F(edbg#ag#)E7, FMaj7(edbg#)
 Our empathy, dying to be freed,
-			Esus4 (b a)Am /G Am
-((From Human Greed, bad seed)) o' times now passed
+		FMaj7 -> GMaj7 (b a)Am /G Am
+((From Human Greed)) o' times past
 (V2)  The moon's eclipsed in, blackened city skies
 U.N Branches ripped 'n', flagging but it flies
 A sign of hopes and fears
 Fading old dream, disappears
 Prayer Flags seem to prophesize.
-(C1).. ((From Human Greed, that need)) from time's long passed
+(C1).. ((no Human need)) o' times past
 (V3) The stars now shine on, loss 'n' war-torn waste
 Crescent moon aligned 'n', red cross in one place
 Entwined 'round Minurets
 Resurrections o' Regrets
-Prayer Flags seem to be two-faced.
-(M8) Dm7	Em7,	Am/E		E7 (ee d# e)
-One looks to the future, and one to the past
-F		G,	C/G Em/G	Am 	Am/G
+Prayer Flags seem indeed two-faced.
+(M8) Dm/F	Em7/G,	Cadd9/G(c)Em/G(b)F
+One looks to the future, one looks to the past
+FMaj7		GMaj7,	Em	Em7(ded)   F FMaj7->GMaj7	
 There's no second nature, there's no second class.
 (Solo) Am/E E7 (d# e) F G, Am G F Em7 /D
-(Out)The sun will rise again 'n' count cost
-The moon lit flag declares, no one 's lost 
+(Out)The sun will rise again at what cost ?
+The moon lit flag declares, no one else's lost 
  New call to prayer, for all to share
-Our empathy, prepare to be freed,
-From History, no longer star-crossed
+Am/E	E7,	F 	E7, FMaj7(x3) -> GMaj7(x3)
+Our empathy, prepare to BE, freed,
+FMaj7 -> GMaj7		Am
+o' History, no longer star-crossed
 Eaug/G# = (g# c e) Eaug (e g# c e)
