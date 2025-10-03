@@ -36,7 +36,7 @@ One looks to the future, one looks to the past
 FMaj7		GMaj7,	Em	Em7(ded)   F FMaj7->GMaj7	
 There's no second nature, there's no second class.
 (Solo) Am/E E7 (d# e) F G, Am G F Em7 /D
-(Outro)The sun will rise again at what cost ?
+(C2/Outro)The sun will rise again at what cost ?
 The moon lit flag declares, no one else's lost 
  New call to prayer, for us to share
 Am/E	E7,	F 	E7, FMaj7(x3) -> GMaj7(x3)
