@@ -4,15 +4,15 @@ Prayer Flags (Capo +5) (Key F)
 The sun's stoked Amber, windswept empty seas 
 Am/E		E7	F (FMaj7) Eaug/G# (g# g f g)
 Star Spangled Banner sill, -houetted in the breeze,
-Dm	Dm7	G6 G/D (ed)
+Dm/F	Dm7/F	G6(e) G (ed)
 The sting of salty tears
-Am/E		G/D	F/C		/B
+Am/E		G/D	F/C	F/E F
 Spiralled flashbacks through the years
 Dm/A	Em/B   (e)	Am(aga) /G Am
 Prayer Flags seem like guarantees.
 (C1) C		G/B,		Am Em/G(ecbg)
 The sun will rise again, and will cast
-C/G		Em/G,	Am 	C/G	(g e)
+Cadd9/G		Em/G,	Am 	C/G	(g e)
 A light on flags maintained, at half mast
 F	Em7(dde),	Dm	Dm7	G/D
 A call to prayer, we all could share 
@@ -29,7 +29,7 @@ Prayer Flags seem to prophesize.
 (V3) The stars now shine on, loss 'n' war-torn waste
 Crescent moon aligned an', red cross in one place
 Entombed ruined Minurets 
-Resignations fuel Regrets
+Resignation(s) soon Regrets
 Prayer Flags seem to be two-faced.
 (M8) Dm/F	Em7/G,	Cadd9/G(c)Em/G(b)F
 One looks to the future, one looks to the past
