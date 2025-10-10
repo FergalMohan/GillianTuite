@@ -1,7 +1,7 @@
 Prayer Flags (Capo +5) (Key F)
 		by Gillian Tuite & Fergal Mohan
 (V1)Am/E E7 (d#,e), F(FMaj7) Eaug/G#(d#edb) Eaug
-The sun's stoked Amber, windswept empty seas 
+The sun's sparked Amber, windswept empty seas 
 Am/E		E7	F (FMaj7) Eaug/G# (g# g f g)
 Star Spangled Banner sill, -houetted in the breeze,
 Dm/F	Dm7/F	G6(e) G (ed)
@@ -12,13 +12,13 @@ Dm/A	Em/B   (e)	Am(aga) /G Am
 Prayer Flags seem like guarantees.
 (C1) C		G/B,		Am Em/G(ecbg)
 The sun will rise again, and will cast
-Cadd9/G		Em/G,	Am 	C/G	(g e)
+(/E)Cadd9/G 	(/G)Em/G, (/E)Am (b)(/E)C/G (cb c)
 A light on flags maintained, at half mast
 F	Em7(dde),	Dm	Dm7	G/D
 A call to prayer, we all could share 
-Am/E(ed)E7(bg#),F(edbg#ag#)E7, FMaj7(edbg#)
-Our (liberty/sympathy), dying to be freed,
-		FMaj7 -> GMaj7 (b a)Am /G Am
+Am/E(ed)E7(bg#),F(edbg#ag#)E7, F FMaj7(edbg#)
+Our (self-pity/sympathy), dying to be freed,
+FMaj7(x3)->GMaj7 G F Em,/B/A/B(d#ed)Am /G Am
 ((From Human Greed)) o' times past
 (V2)  The moon's eclipsed in, blackened city skies
 U.N Branches ripped 'n', flagging but it flies
@@ -28,7 +28,7 @@ Prayer Flags seem to prophesize.
 (C1).. ((sympathy))
 (V3) The stars now shine on, loss 'n' war-torn waste
 Crescent moon aligned an', red cross in one place
-Entombed ruined Minurets 
+Redesigned Minurets 
 Resignation(s) soon Regrets
 Prayer Flags seem to be two-faced.
 (M8) Dm/F	Em7/G,	Cadd9/G(c)Em/G(b)F
@@ -37,10 +37,10 @@ FMaj7		GMaj7,	Em	Em7(ded)   F FMaj7->GMaj7
 There's no second nature, there's no second class.
 (Solo) Am/E E7 (d# e) F G, Am G F Em7 /D
 (C2/Outro)The sun will rise again at what cost ?
-The moon lit flag declares, no one else's lost 
+Moon light on flags maintains, no one else's lost 
  New call to prayer, for us to share
-Am/E	E7,	F 	E7, FMaj7(x3) -> GMaj7(x3)
+Am/E	E7,	F 	E7, F FMaj7
 Our empathy, prepare to BE, freed,
-FMaj7 -> GMaj7		Am
+FMaj7(x3) -> GMaj7 G F Em,/G/F/E(d#ed)Am/E /G Am
 o' History, no longer star-crossed
 Eaug/G# = (g# c e) Eaug (e g# c e)
