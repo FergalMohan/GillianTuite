@@ -6,7 +6,7 @@ Am/E		E7	F (FMaj7) Eaug/G# (g# g f g)
 Star Spangled Banner sill, -houetted in the breeze,
 Dm/F	Dm7/F	G6(e) G (ed)
 The sting of salty tears
-Am/E		G/D	F/C	F/E F
+Am/E		G/D	F/C	 Em7/B
 Spiralled flashbacks through the years
 Dm/A	Em/B   (e)	Am(aga) /G Am
 Prayer Flags need some guarantees,
@@ -14,7 +14,7 @@ Prayer Flags need some guarantees,
 The sun will rise again, and will cast
 (/E)Cadd9/G 	(/G)Em/G, (/E)Am (b)(/E)C/G (cb c)
 A light on flags maintained, at half mast
-F	Em7(dde),	Dm	Dm7	G/D
+F	Em7(dde),	Dm	Dm7 G/D
 A call to prayer, we all could share 
 Am/E(ed)E7(bg#),F(edbg#ag#)E7, F FMaj7(edbg#)
 Our (self-pity/sympathy), dying to be freed,
@@ -28,7 +28,7 @@ Prayer Flags need to prophesize,
 (C1).. ((sympathy))
 (V3) The stars now shine on, loss 'n' war-torn waste
 Crescent moon aligned an', red cross in one place
-Redesigned Minurets 
+Replevined Minurets 
 Resignation(s) soon Regrets
 Prayer Flags need to be two-faced,
 (M8) Dm/F	Em7/G,	Cadd9/G(c)Em/G(b)F
